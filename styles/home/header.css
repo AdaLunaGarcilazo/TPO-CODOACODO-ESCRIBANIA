@@ -1,0 +1,7 @@
+.heading-principal {
+    height: calc(100vh - 49px);
+    background-image: url('../../imagenes/header1.jpg');
+    background-size: cover;
+}
+
+
